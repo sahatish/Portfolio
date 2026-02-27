@@ -101,6 +101,18 @@ export const SkillsInfo = [
         "Communication Skills"
       ],
     },
+
+    {
+      id: 0,
+      img: spodenentLogo,
+      role: " UI-UX Developer",
+      company: "Swasthya Chetna PVT. LTD.",
+      date: " 2026 - 3 months",
+      desc: "Event Organizer Website",
+      skills: [
+        "HTLM5, CSS3, React.js, tailwind CSS, figma, Django,Flask, MongoDBS"
+      ],
+    },
     
   ];
   
