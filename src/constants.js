@@ -122,7 +122,7 @@ export const SkillsInfo = [
       img: ParulLogo,
       school: "Parul University(PU), Vadodara, Gujarat India",
       date: "june 2022 - June 2026",
-      grade: "8",
+      grade: "8 CGPA",
       desc: "I am  pursing my Bachelor of Technology (B.Tech) in Computer Science from Parul University, Gujarat. During my time at PU, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. ",
       degree: "Bachelor of Technology in Computer Science & Engineering - B.Tech",
     },
